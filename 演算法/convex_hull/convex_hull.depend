@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1621782624 source:e:\c++\algorithm_hw\convex_hull\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+
+1621790006 source:c:\users\yuxian shih\desktop\convex_hull\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+
+1621790006 source:c:\users\yuxian shih\desktop\演算法\convex_hull\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+
+1621790006 source:c:\users\f1307\onedrive\桌面\學校\u0724002_演算法\convex_hull\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+
