@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623420108 source:c:\users\yuxian shih\desktop\c++test\bfs\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<string>
+
+1623422790 source:c:\users\f1307\onedrive\桌面\學校\資料結構整理\bfs\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<string>
+

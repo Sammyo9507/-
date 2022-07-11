@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1569806134 source:l:\mystack-01\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
+1569806134 source:c:\users\yuxian shih\desktop\mystack-01\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
+1569806134 source:c:\users\yuxian shih\desktop\stack---\mystack-01\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+

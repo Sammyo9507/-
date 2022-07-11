@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571904068 source:d:\00_teacher\nschou\00_cbprj\stakc\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
+1571931888 source:d:\code test\stakc\main.cpp
+	<iostream>
+	<stack>
+	<string>
+

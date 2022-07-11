@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1574684085 source:c:\users\yuxian shih\desktop\u0724002_06\main.cpp
+	<iostream>
+	"stack.h"
+	<string>
+	<vector>
+	<sstream>
+
+1572499926 c:\users\yuxian shih\desktop\u0724002_06\stack.h
+
+1574684085 source:c:\users\yuxian shih\desktop\資料結構整理\infixtopostfix\main.cpp
+	<iostream>
+	"stack.h"
+	<string>
+	<vector>
+	<sstream>
+
+1572499926 c:\users\yuxian shih\desktop\資料結構整理\infixtopostfix\stack.h
+

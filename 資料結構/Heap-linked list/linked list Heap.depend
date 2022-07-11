@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1577965102 source:c:\users\yuxian shih\desktop\linked list heap\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<queue>
+
+1577965102 source:c:\users\yuxian shih\desktop\u0724002_08\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<queue>
+
